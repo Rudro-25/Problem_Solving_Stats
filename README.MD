@@ -16,6 +16,6 @@
 | Kattis | [Rudro25](https://open.kattis.com/users/Rudro25) | 1 |
 | CS Academy | [Rudro25](https://csacademy.com/user/Rudro25) | 0 |
 | TOKI | [Rudro25](https://tlx.toki.id/profiles/Rudro25) | 0 |
-| Total | | 2100 |
+| Total | | ~2200 |
 
 Last Updated: 22 June, 2022
