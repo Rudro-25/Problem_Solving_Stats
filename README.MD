@@ -13,7 +13,7 @@
 | UVA | [Rudro25](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 79 |
 | HackerEarth | [Rudro25](https://www.hackerearth.com/@Rudro25) | 10 |
 | HackerRank | [Rudro25](https://www.hackerrank.com/Rudro25) | 10 |
-| Kattis | [](https://open.kattis.com/users/shahjalal-shohag) | 1 |
+| Kattis | [Rudro25](https://open.kattis.com/users/Rudro25) | 1 |
 | CS Academy | [Rudro25](https://csacademy.com/user/Rudro25) | 0 |
 | TOKI | [Rudro25](https://tlx.toki.id/profiles/Rudro25) | 0 |
 | Total | | 2100 |
